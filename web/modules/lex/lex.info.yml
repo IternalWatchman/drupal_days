@@ -1,0 +1,4 @@
+name: lex
+type: module
+description: Lex learning module.
+core: 8.x

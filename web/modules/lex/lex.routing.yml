@@ -1,0 +1,7 @@
+lex:
+  path: '/its/test'
+  defaults:
+    _title: 'Hello Boq'
+    _controller: '\Drupal\lex\Controller\LexController::content'
+  requirements:
+    _permission: 'access content'

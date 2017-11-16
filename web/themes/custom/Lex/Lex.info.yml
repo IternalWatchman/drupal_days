@@ -1,0 +1,13 @@
+name: Lex
+description: Lex starting theme
+type: theme
+core: 8.x
+package: Other
+
+libraries:
+  - Lex/global-styling
+  - Lex/common-scripts
+
+libraries-override:
+  system/base: false
+
