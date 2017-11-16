@@ -1,5 +1,5 @@
 lex:
-  path: '/its/test'
+  path: '/test'
   defaults:
     _title: 'Hello Boq'
     _controller: '\Drupal\lex\Controller\LexController::content'
